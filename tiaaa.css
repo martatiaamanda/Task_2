@@ -1,0 +1,18 @@
+body{
+    background-color: yellow;
+}
+
+.table-box{
+    position: absolute;
+    left: 40%;
+    top: 40%;
+}
+
+button{
+    width: 100%;
+    padding: 5px 0;
+    border: none;
+    background-color:#0074f8;
+    font-size: 18px;
+    color: #020008e8;
+}
